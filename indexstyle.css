@@ -1,0 +1,25 @@
+body {
+    background-color: red;
+}
+h1 {
+    background-color: black;
+    font-size: 100px;
+    text-align: center;
+    font-family: fantasy;
+    color: white;
+}
+.photo {
+    display: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.best {
+    font-size: 75px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: white;
+}
+ul {
+    font-size: 50px;
+}
