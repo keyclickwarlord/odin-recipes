@@ -1,5 +1,5 @@
 body {
-    background-color: red;
+    background-color: lightgrey;
 }
 h1 {
     background-color: black;
@@ -7,18 +7,24 @@ h1 {
     text-align: center;
     font-family: fantasy;
     color: white;
+    padding-top: 50px;
+    display: block;
 }
 .photo {
-    display: absolute;
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
+    display: block;
+    margin: auto;
+    width: 1000px;
+    height: 500px;
+    border-radius: 10%;
+    border: solid red;
+    border-width: 20px;
 }
 .best {
     font-size: 75px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     color: white;
+    font-style: italic;;
 }
 ul {
     font-size: 50px;
